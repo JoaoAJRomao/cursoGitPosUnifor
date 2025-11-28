@@ -1,1 +1,2 @@
-"versÆo 1.0.0"
+"versao" 
+"versÃ£o 1.0.0"
